@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraCover.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/fonts/regular.spritefont</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/fonts/hilight.spritefont</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/fonts/title.spritefont</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/stageBackground.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingRightSide3.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingRightSide.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingRightSide4.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingRightSide2.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingLeftSide.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingLeftSide2.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingLeftSide3.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraStandingLeftSide4.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/metal.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/jumpRightSide1.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/jumpRightSide2.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/Themes/cobratheme.wav</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/rectangle.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/jumpleftSide1.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/jumpLeftSide2.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraShootingRight1.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraShootingRight2.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraShootingRight3.png</File>
+    <File>C:/Users/David/Documents/Visual Studio 2017/Projects/Cobra/Cobra/Content/images/cobraShootingRight4.png</File>
+  </SourceFiles>
+</SourceFileCollection>
